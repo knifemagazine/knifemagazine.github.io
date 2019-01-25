@@ -5,6 +5,7 @@ layout: default
 <!-- The main content area -->
 <div class="posts">
   <div class="grid-xlarge">
+    hello
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
 
       {% for post in paginator.posts %}
@@ -13,7 +14,6 @@ layout: default
         {% include post-card.html %}
 
       {% endfor %}
-      hello
     </div>
   </div>
 
