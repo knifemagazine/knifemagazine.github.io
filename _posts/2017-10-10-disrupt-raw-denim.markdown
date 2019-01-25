@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change this title
-date: 2017-10-10 00:00:00 +0000
+date: 2019-01-02 05:00:00 +0000
 description: 
 image: "/assets/images/placeholder-14.jpg"
 author: Thomas Vaeth
